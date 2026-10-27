@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 原型体验与业务闭环检查"
+  short_description: "实际操作 B 端 HTML 原型，检查功能闭环、交互与视觉一致性，输出可供 AI 修改的问题清单"
+  default_prompt: "使用 $html-prototype-audit 检查指定 HTML 原型，实际遍历页面和交互，并输出可复现、可验收的 AI 修改清单。"

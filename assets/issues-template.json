@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "scope": {
+    "entry": null,
+    "version": null,
+    "checked_at": null,
+    "mode": null,
+    "pages": [],
+    "roles": [],
+    "requirements_sources": [],
+    "design_sources": [],
+    "excluded": [],
+    "assumptions": [],
+    "limitations": [],
+    "environment": {
+      "browser": null,
+      "css_viewport": null,
+      "zoom": null,
+      "access_method": null
+    },
+    "test_data_and_reset": null
+  },
+  "summary": {
+    "issues_by_priority": {
+      "P0": 0,
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "questions": 0,
+    "suggestions": 0,
+    "coverage_by_result": {
+      "通过": 0,
+      "问题": 0,
+      "待确认": 0,
+      "未验证": 0,
+      "不适用": 0
+    }
+  },
+  "coverage": [],
+  "issues": [],
+  "questions": [],
+  "suggestions": [],
+  "requirements": [],
+  "retests": []
+}
